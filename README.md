@@ -1,5 +1,5 @@
 # Visualizing Geo Data with Folium & Bokeh
-repository collaborators: Sylvia Tran (folium) + Emma Freeman (bokeh)
+repository collaborators & co-organizers of PyLadies LA: Sylvia Tran (folium) + Emma Freeman (bokeh)
 
 ## PyLadies Los Angeles June 21, 2018 Meet Up
 ![image](https://user-images.githubusercontent.com/32135867/43371717-69864d08-934c-11e8-9a1d-47d0f91380dc.png)
